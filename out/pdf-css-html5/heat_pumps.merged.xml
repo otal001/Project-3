@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/aotalorafadner/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/aotalorafadner/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/aotalorafadner/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/aotalorafadner/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/C:/Users/aotalorafadner/AppData/Local/Programs/Oxygen%20XML%20Editor%2026/frameworks/dita/DITA-OT/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/Project%203/heat_pumps.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Heat pumps</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Heat pumps</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="task"><topicmeta class="- map/topicmeta " data-topic-id="contractor_selection"><resourceid appid="contractor_selection" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">contractor selection</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Directions for choosing a contractor</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_2" type="reference"><topicmeta class="- map/topicmeta " data-topic-id="qualifying_units"><resourceid appid="qualifying_units" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">qualifying units</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Systems that qualify for Consortium for Energy Efficiency's highest tier of         residential products</shortdesc></topicmeta></topicref>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_3" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="switchover"><resourceid appid="switchover" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">switchover</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Understanding switchover temperatures</shortdesc></topicmeta></topicref>
+</opentopic:map><task break-before="true" is-chapter="true" class="- topic/topic task/task " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="contractor_selection" oid="contractor_selection" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">contractor selection</ph></title>
+    <shortdesc class="- topic/shortdesc ">Directions for choosing a contractor</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p ">The ASHP Collaborative <i class="+ topic/ph hi-d/i ">Preferred Contractor Network</i> can you connect with a
+                quality heat pump installer. Preferred Contractor Network members have attended
+                training courses, provided proper license documentation, and demonstrated quality
+                installations.</p>
+            <p class="- topic/p "><xref class="- topic/xref " format="html" href="https://www.mnashp.org/preferred-contractor-network-homeowners/" scope="external"><?ditaot usertext?>Visit the Preferred Contractor Network</xref> to
+                find the nearest member.</p>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd "/>
+            </step>
+        </steps>
+    </taskbody>
+</task><reference break-before="true" is-chapter="true" class="- topic/topic       reference/reference " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="qualifying_units" oid="qualifying_units" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">qualifying units</ph></title>
+    <shortdesc class="- topic/shortdesc ">Systems that qualify for Consortium for Energy Efficiency's highest tier of
+        residential products</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <table class="- topic/table " colsep="1" frame="all" id="unique_2_Connect_42_table_kcb_bp5_2zb" nd:nd-id="table_kcb_bp5_2zb" rowsep="1">
+            <tgroup class="- topic/tgroup " cols="5">
+                <colspec class="- topic/colspec " colname="col1" colnum="1" colwidth="1*" xtrc="colspec:1;10:65" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/Project%203/topics/qualifying_units.dita" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col2" colnum="2" colwidth="1*" xtrc="colspec:2;11:65" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/Project%203/topics/qualifying_units.dita" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col3" colnum="3" colwidth="1*" xtrc="colspec:3;12:65" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/Project%203/topics/qualifying_units.dita" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col4" colnum="4" colwidth="1*" xtrc="colspec:4;13:65" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/Project%203/topics/qualifying_units.dita" style="width:20%;"/>
+                <colspec class="- topic/colspec " colname="col5" colnum="5" colwidth="1*" xtrc="colspec:5;14:65" xtrf="file:/C:/Users/aotalorafadner/OneDrive%20-%20Center%20for%20Energy%20and%20Environment/Documents/Arbor/TC/WRIT%205662/Project%203/topics/qualifying_units.dita" style="width:20%;"/>
+                <thead class="- topic/thead ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="1">Brand</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="1">Outdoor Unit Model Number</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="1">Indoor Unit Model Number</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="1">Air Mover Model Number</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="1">COP at 5 Degrees F</entry></row>
+                </thead>
+                <tbody class="- topic/tbody ">
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="2">Lennox</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="2">ML17XP1-048-230A**</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="2">CBA38MV-048-230*+TDR</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="2">CBA38MV-048-230*+TDR</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="2">2.28</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="3">Carrier</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="3">25VNA848A*030*</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="3">CAP**4824AL*+UI</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="3">59CU5A100C21**22</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="3">2.02</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="4">Kenmore</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="4">(C,H,T)VH837GKA2*</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="4">EHD4X48AAL+WALLCON</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="4">*80CTL1352422A*</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="4">1.98</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="5">Airease</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="5">4SHP22LX124P-**A</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="5">EA(C;U)1P24B+TDR+TXV</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="5">A96UH2E045B12</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="5">1.9</entry></row>
+                    <row class="- topic/row "><entry class="- topic/entry " colname="col1" dita-ot:x="1" dita-ot:y="6">Armstrong Air</entry><entry class="- topic/entry " colname="col2" dita-ot:x="2" dita-ot:y="6">4SHP17LE130P-**A</entry><entry class="- topic/entry " colname="col3" dita-ot:x="3" dita-ot:y="6">EA(C;U)1P36B+TDR+TXV</entry><entry class="- topic/entry " colname="col4" dita-ot:x="4" dita-ot:y="6">A93UH1E070B12</entry><entry class="- topic/entry " colname="col5" dita-ot:x="5" dita-ot:y="6">2.28</entry></row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference><concept break-before="true" is-chapter="true" class="- topic/topic concept/concept " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="switchover" oid="switchover" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">switchover</ph></title>
+    <shortdesc class="- topic/shortdesc ">Understanding switchover temperatures</shortdesc>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">The switchover temperature is the temperature when your heating switches from the heat
+            pump to the secondary source. Consider this example to illustrate:</p>
+        <ul class="- topic/ul " id="unique_3_Connect_42_ul_a5q_fn5_2zb" nd:nd-id="ul_a5q_fn5_2zb">
+            <li class="- topic/li ">A home has a heat pump and a gas furnace. The switchover is set to 15F. Cool fall
+                weather is approaching.</li>
+        </ul>
+        <ul class="- topic/ul " id="unique_3_Connect_42_ul_ivt_fn5_2zb" nd:nd-id="ul_ivt_fn5_2zb">
+            <li class="- topic/li ">From when heating is first turned on for the season, and down to 15F, the heat pump
+                provides heating.</li>
+        </ul>
+        <ul class="- topic/ul " id="unique_3_Connect_42_ul_n5w_fn5_2zb" nd:nd-id="ul_n5w_fn5_2zb">
+            <li class="- topic/li ">When outdoor temperatures drop below 15F, the heat pump turns off and gas furnace
+                takes over heating.</li>
+        </ul>
+        <p class="- topic/p ">Contractors will recommend different switchovers for
+            different equipment options. If you want to change the switchover temperature after the
+            heat pump is installed, discuss it with your contractor during a service call. You may
+            also be able to change the switchover yourself through your thermostat controls.</p> 
+        <p class="- topic/p ">You can explore our <xref class="- topic/xref " format="html" href="https://www.mnashp.org/cost-of-heat-comparison/" scope="external"><?ditaot usertext?>Annual Energy Costs Chart </xref>to see the potential
+            bill impacts of different switchovers.</p>
+    </conbody>
+</concept></map>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="contractor_selection" path="topics/contractor_selection.html"/>
+   <appContext helpID="qualifying_units" path="topics/qualifying_units.html"/>
+   <appContext helpID="switchover" path="topics/switchover.html"/>
+</map>

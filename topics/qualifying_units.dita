@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="qualifying_units">
+    <title>qualifying units</title>
+    <shortdesc>Systems that qualify for Consortium for Energy Efficiency's highest tier of
+        residential products</shortdesc>
+    <refbody>
+        <table frame="all" rowsep="1" colsep="1" id="table_kcb_bp5_2zb">
+            <tgroup cols="5">
+                <colspec colname="c1" colnum="1" colwidth="1*"/>
+                <colspec colname="c2" colnum="2" colwidth="1*"/>
+                <colspec colname="c3" colnum="3" colwidth="1*"/>
+                <colspec colname="c4" colnum="4" colwidth="1*"/>
+                <colspec colname="c5" colnum="5" colwidth="1*"/>
+                <thead>
+                    <row>
+                        <entry>Brand</entry>
+                        <entry>Outdoor Unit Model Number</entry>
+                        <entry>Indoor Unit Model Number</entry>
+                        <entry>Air Mover Model Number</entry>
+                        <entry>COP at 5 Degrees F</entry>
+                    </row>
+                </thead>
+                <tbody>
+                    <row>
+                        <entry>Lennox</entry>
+                        <entry>ML17XP1-048-230A**</entry>
+                        <entry>CBA38MV-048-230*+TDR</entry>
+                        <entry>CBA38MV-048-230*+TDR</entry>
+                        <entry>2.28</entry>
+                    </row>
+                    <row>
+                        <entry>Carrier</entry>
+                        <entry>25VNA848A*030*</entry>
+                        <entry>CAP**4824AL*+UI</entry>
+                        <entry>59CU5A100C21**22</entry>
+                        <entry>2.02</entry>
+                    </row>
+                    <row>
+                        <entry>Kenmore</entry>
+                        <entry>(C,H,T)VH837GKA2*</entry>
+                        <entry>EHD4X48AAL+WALLCON</entry>
+                        <entry>*80CTL1352422A*</entry>
+                        <entry>1.98</entry>
+                    </row>
+                    <row>
+                        <entry>Airease</entry>
+                        <entry>4SHP22LX124P-**A</entry>
+                        <entry>EA(C;U)1P24B+TDR+TXV</entry>
+                        <entry>A96UH2E045B12</entry>
+                        <entry>1.9</entry>
+                    </row>
+                    <row>
+                        <entry>Armstrong Air</entry>
+                        <entry>4SHP17LE130P-**A</entry>
+                        <entry>EA(C;U)1P36B+TDR+TXV</entry>
+                        <entry>A93UH1E070B12</entry>
+                        <entry>2.28</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+    </refbody>
+</reference>

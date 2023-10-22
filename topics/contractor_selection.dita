@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="contractor_selection">
+    <title>contractor selection</title>
+    <shortdesc>Directions for choosing a contractor</shortdesc>
+    <taskbody>
+        <context>
+            <p>The ASHP Collaborative <i>Preferred Contractor Network</i> can you connect with a
+                quality heat pump installer. Preferred Contractor Network members have attended
+                training courses, provided proper license documentation, and demonstrated quality
+                installations.</p>
+            <p><xref href="https://www.mnashp.org/preferred-contractor-network-homeowners/"
+                    format="html" scope="external">Visit the Preferred Contractor Network</xref> to
+                find the nearest member.</p>
+        </context>
+        <steps>
+            <step>
+                <cmd></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

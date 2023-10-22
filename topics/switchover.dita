@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="switchover">
+    <title>switchover</title>
+    <shortdesc>Understanding switchover temperatures</shortdesc>
+    <conbody>
+        <p>The switchover temperature is the temperature when your heating switches from the heat
+            pump to the secondary source. Consider this example to illustrate:</p>
+        <ul id="ul_a5q_fn5_2zb">
+            <li>A home has a heat pump and a gas furnace. The switchover is set to 15F. Cool fall
+                weather is approaching.</li>
+        </ul>
+        <ul id="ul_ivt_fn5_2zb">
+            <li>From when heating is first turned on for the season, and down to 15F, the heat pump
+                provides heating.</li>
+        </ul>
+        <ul id="ul_n5w_fn5_2zb">
+            <li>When outdoor temperatures drop below 15F, the heat pump turns off and gas furnace
+                takes over heating.</li>
+        </ul>
+        <p>Contractors will recommend different switchovers for
+            different equipment options. If you want to change the switchover temperature after the
+            heat pump is installed, discuss it with your contractor during a service call. You may
+            also be able to change the switchover yourself through your thermostat controls.</p> 
+        <p>You can explore our <xref href="https://www.mnashp.org/cost-of-heat-comparison/"
+                format="html" scope="external">Annual Energy Costs Chart </xref>to see the potential
+            bill impacts of different switchovers.</p>
+    </conbody>
+</concept>
